@@ -1,10 +1,11 @@
 
 # Contributing
 
-To get your plugin listed, add a row to the table in README.md or file an issue with the following information:
+To get your plugin listed, file an issue with the following information:
 
-1. The name of the plugin with a link to its home page
-2. Author
-3. Description
+1. The name of the plugin
+2. Link to the plugin home page
+3. Author
+4. Description
 
 Thanks!
