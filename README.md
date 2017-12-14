@@ -7,5 +7,6 @@ If you want your plugin added to this list, then open an issue with information 
 | Name | Author | Description |
 |------|--------|-------------|
 | [AVD Format](https://github.com/Pixofield/keyshape-avd-format) | Pixofield | Import and export Animated Vector Drawables and Vector Drawables. |
+| [Lottie Format](https://github.com/Pixofield/keyshape-lottie-format) | Pixofield | Import and export Lottie animations. |
 
 There's not so many, yet. :)
