@@ -1,6 +1,6 @@
 # Keyshape Plugins
 
-A list of Keyshape plugins in alphabetical order. All plugins run be run on Apple Silicon and
+A list of Keyshape plugins in alphabetical order. All plugins can be run on Apple Silicon and
 Intel-based Macs.
 
 If you want your plugin added to this list, then open an issue with information about the plugin.
